@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using System.Collections;
 
 public class LeadController : MonoBehaviour {
     public float speed = 10;
